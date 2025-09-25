@@ -77,7 +77,7 @@ _Bachelor’s Degree in Artificial Intelligence (2022 – 2026)_
 ## 📬 Contact Me  
 
 - 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yousef-ahmed-029bb22a3/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yousef-ahmed-029bb22a3/](https://www.linkedin.com/in/yousef-ahmed-029bb22a3/)  
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yousefahmed2004)  
 - 🌐 Portfolio: [your-portfolio-link.com](https://yousefahmed2004.github.io/)  
 - 📱 WhatsApp: [+20XXXXXXXXX](https://wa.me/201006947262)  
