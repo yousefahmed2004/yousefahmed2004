@@ -117,6 +117,7 @@ ML-based classification model to detect child malnutrition.
   <a href="https://wa.me/201006947262">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://yousefahmed2004.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
-
----
