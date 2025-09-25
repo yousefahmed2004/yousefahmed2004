@@ -38,7 +38,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 [Mafqood – Missing Child Finder](https://github.com/yourusername/mafqood)  
+### 🔹 [Mafqood – Missing Child Finder](https://mafqood.website/)  
 AI-powered web app to help parents find missing children.  
 - 🔍 Uses **CNN-based model** for face recognition  
 - 🌍 Integrated with **maps for location tracking**  
