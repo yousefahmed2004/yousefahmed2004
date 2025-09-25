@@ -59,24 +59,10 @@ ML-based classification model to detect child malnutrition.
 - 📊 Input features: age, weight, height, head circumference  
 - 🤖 Applied **KNN algorithm** for accurate classification  
 
----
-
-## 🎓 Education  
-**Delta University for Science & Technology**  
-_Bachelor’s Degree in Artificial Intelligence (2022 – 2026)_  
-
----
-
-## 📜 Certifications  
-- Machine Learning Specialization – [Coursera/edX/etc.]  
-- Deep Learning Foundations – [Platform]  
-- Python for Data Science – [Platform]  
-
----
 
 ## 📬 Contact Me  
 
-- 📧 Email: **your.email@example.com**  
+- 📧 Email: [yousefahmed87a6@gmail.com](yousefahmed87a6@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/yousef-ahmed-029bb22a3/](https://www.linkedin.com/in/yousef-ahmed-029bb22a3/)  
 - 🐙 GitHub: [https://github.com/yousefahmed2004](https://github.com/yousefahmed2004)  
 - 🌐 Portfolio: [https://yousefahmed2004.github.io/](https://yousefahmed2004.github.io/)  
