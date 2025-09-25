@@ -19,15 +19,16 @@
 ---
 
 ## 🛠️ Technical Skills  
-
+ 
 ### 🔹 AI & Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" alt="Keras" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" />
 </div>
+
 
 ### 🔹 Tools & Technologies  
 <div align="center">
