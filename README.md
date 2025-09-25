@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
@@ -67,6 +65,37 @@ Medical image analysis system for early disease detection.
 ML-based classification model to detect child malnutrition.  
 - 📊 Input features: age, weight, height, head circumference  
 - 🤖 Applied **KNN algorithm** for accurate classification  
+
+---
+
+## 📜 Certifications  
+
+- **NTI – Machine Learning**  
+  *National Telecommunication Institute (NTI)* – Issued Oct 2025  
+
+- **NTI-Huawei Egyptian Talents Academy – Artificial Intelligence (AI)**  
+  *National Telecommunication Institute (NTI)* – Issued Sep 2025  
+
+- **AI, ML and Quantum ML Fundamentals**  
+  *Ministry of Youth & Sports of Egypt* – Issued Feb 2025  
+
+- **Practical ML for Data Scientists**  
+  *MaharaTech – ITI Mooca* – Issued Nov 2024  
+
+- **Python Programming Basics**  
+  *MaharaTech – ITI Mooca* – Issued Oct 2024  
+
+- **Introduction to Artificial Intelligence (AI)**  
+  *Coursera – IBM*  
+
+- **Building a Company’s Database using MySQL and SQL**  
+  *Coursera*  
+
+- **The Structured Query Language (SQL)**  
+  *Coursera*  
+
+- **HTML Language**  
+  *Coursera* – Issued Aug 2023  
 
 ---
 
