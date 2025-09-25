@@ -21,18 +21,27 @@
 ## 🛠️ Technical Skills  
 
 ### 🔹 AI & Machine Learning  
-- Machine Learning (ML)  
-- Deep Learning (DL)  
-- Computer Vision (CV)  
-- Natural Language Processing (NLP)  
-- Neural Networks (CNN, RNN, Transformers)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=keras" height="50" alt="Keras" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn" />
+</div>
 
 ### 🔹 Tools & Technologies  
-- Python, TensorFlow, Keras, PyTorch, Scikit-learn  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Flask, PHP, JavaScript  
-- HTML, CSS, Bootstrap, Tailwind  
-- Git, GitHub  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+</div>
 
 ---
 
@@ -59,15 +68,25 @@ ML-based classification model to detect child malnutrition.
 - 📊 Input features: age, weight, height, head circumference  
 - 🤖 Applied **KNN algorithm** for accurate classification  
 
-
-## 📬 Contact Me  
-
-- 📧 Email: [yousefahmed87a6@gmail.com](yousefahmed87a6@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/yousef-ahmed-029bb22a3/](https://www.linkedin.com/in/yousef-ahmed-029bb22a3/)  
-- 🐙 GitHub: [https://github.com/yousefahmed2004](https://github.com/yousefahmed2004)  
-- 🌐 Portfolio: [https://yousefahmed2004.github.io/](https://yousefahmed2004.github.io/)  
-- 📱 WhatsApp: [https://wa.me/201006947262](https://wa.me/201006947262)  
-
 ---
 
+## 📬 Connect with Me  
+<div align="center">
+  <a href="mailto:yousefahmed87a6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yousef-ahmed-029bb22a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yousefahmed2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/yousefahmedabdo">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201006947262">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
+---
