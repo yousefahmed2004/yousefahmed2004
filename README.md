@@ -22,28 +22,28 @@
 
 ### 🔹 AI & Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" alt="Keras" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn" />
-</div>
-
-### 🔹 Tools & Technologies  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" /><br><sub>Python</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" /><br><sub>TensorFlow</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" /><br><sub>PyTorch</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="Keras" /><br><sub>Keras</sub>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" /><br><sub>Scikit-learn</sub>
 </div>
 
 ---
+
+### 🔹 Tools & Technologies  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask" /><br><sub>Flask</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" /><br><sub>PHP</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /><br><sub>JavaScript</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" /><br><sub>HTML</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" /><br><sub>CSS</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" /><br><sub>Bootstrap</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /><br><sub>Git</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" /><br><sub>GitHub</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" /><br><sub>Docker</sub>
+</div>
+
 
 ## 🚀 Featured Projects  
 
